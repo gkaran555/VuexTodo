@@ -1,2 +1,1 @@
-# VuexTodo
-Todo wiith Vuex
+Todo app with Vue-Vuex
